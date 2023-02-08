@@ -13,7 +13,7 @@ Implement your [BPMN Service Task](https://docs.camunda.org/manual/latest/user-g
 ## Installing
 Add following line to `requirements.txt` of your Python project.
 ```
-git+https://github.com/trustfactors/camunda-external-task-client-python3.git/#egg=camunda-external-task-client-python3
+git+https://github.com/camunda-community-hub/camunda-external-task-client-python3.git/#egg=camunda-external-task-client-python3
 ```
 
 Or use pip to install as shown below:
